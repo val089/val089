@@ -20,9 +20,33 @@ I enjoy working with some technologies include Javscript, HTML, CSS/SCSS and Rea
 
 ## Let's stay in touch:
 
- [<img align="left" alt="Kamil Szerląg | LinkedIn" width="100px" src="https://user-images.githubusercontent.com/30775271/101756298-29956100-3ad6-11eb-98f8-8c912e68ce93.png">][linkedin]
+ [<img align="left" alt="Kamil Szerląg | LinkedIn" width="80px" src="https://user-images.githubusercontent.com/30775271/101756298-29956100-3ad6-11eb-98f8-8c912e68ce93.png">][linkedin]
 
- [<img align="left" alt="Kamil Szerląg | Portfolio" width="100px" src="https://user-images.githubusercontent.com/30775271/101759874-6f542880-3ada-11eb-89a0-8d2c88df18d3.png">][website]
+ [<img align="left" alt="Kamil Szerląg | Portfolio" width="80px" src="https://user-images.githubusercontent.com/30775271/101759874-6f542880-3ada-11eb-89a0-8d2c88df18d3.png">][website]
+<br>
+<br>
+<br>
+<br>
+
+## Technologies
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/olafsulich/)
+[![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/olafsulich/)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
+
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/olafsulich/)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
+[![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/olafsulich/)
+[![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/olafsulich/)
+[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/olafsulich/)
+
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)](https://github.com/olafsulich/)
+
+
 
 
 [website]: http://kamilszerlag.com/
