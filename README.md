@@ -20,6 +20,12 @@ I enjoy working with some technologies include Javscript, HTML, CSS/SCSS and Rea
 
 ## Let's stay in touch:
 
-<a href="https://www.linkedin.com/in/kamil-szerlag/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Kamil Szerląg | LinkedIn" width="100px" src="https://user-images.githubusercontent.com/30775271/101756298-29956100-3ad6-11eb-98f8-8c912e68ce93.png">
-</a>
+ [<img align="left" alt="Kamil Szerląg | LinkedIn" width="100px" src="https://user-images.githubusercontent.com/30775271/101756298-29956100-3ad6-11eb-98f8-8c912e68ce93.png">][linkedin]
+
+
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/kamil-szerlag/
