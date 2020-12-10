@@ -20,9 +20,11 @@ I enjoy working with some technologies include Javscript, HTML, CSS/SCSS and Rea
 
 ## Let's stay in touch:
 
- [<img align="left" alt="Kamil Szerląg | LinkedIn" width="80px" src="https://user-images.githubusercontent.com/30775271/101756298-29956100-3ad6-11eb-98f8-8c912e68ce93.png">][linkedin]
+[<img align="left" alt="Kamil Szerląg | LinkedIn" width="80px" src="https://user-images.githubusercontent.com/30775271/101756298-29956100-3ad6-11eb-98f8-8c912e68ce93.png">][linkedin]
 
- [<img align="left" alt="Kamil Szerląg | Portfolio" width="80px" src="https://user-images.githubusercontent.com/30775271/101759874-6f542880-3ada-11eb-89a0-8d2c88df18d3.png">][website]
+[<img align="left" alt="Kamil Szerląg | Portfolio" width="80px" src="https://user-images.githubusercontent.com/30775271/101759874-6f542880-3ada-11eb-89a0-8d2c88df18d3.png">][website]
+ 
+[<img align="left" alt="Kamil Szerląg | Portfolio" width="80px" src="https://user-images.githubusercontent.com/30775271/101759874-6f542880-3ada-11eb-89a0-8d2c88df18d3.png">][codesandbox]
 <br>
 <br>
 <br>
@@ -51,3 +53,4 @@ I enjoy working with some technologies include Javscript, HTML, CSS/SCSS and Rea
 
 [website]: http://kamilszerlag.com/
 [linkedin]: https://www.linkedin.com/in/kamil-szerlag/
+[codesandbox]: https://www.linkedin.com/in/kamil-szerlag/
