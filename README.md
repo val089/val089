@@ -24,7 +24,7 @@ I enjoy working with some technologies include Javscript, HTML, CSS/SCSS and Rea
 
 [<img align="left" alt="Kamil Szerląg | Portfolio" width="80px" src="https://user-images.githubusercontent.com/30775271/101759874-6f542880-3ada-11eb-89a0-8d2c88df18d3.png">][website]
  
-[<img align="left" alt="Kamil Szerląg | Portfolio" width="80px" src="https://user-images.githubusercontent.com/30775271/101759874-6f542880-3ada-11eb-89a0-8d2c88df18d3.png">][codesandbox]
+[<img align="left" alt="Kamil Szerląg | Codesandbox" width="80px" src="https://user-images.githubusercontent.com/30775271/101762656-fce54780-3add-11eb-9338-c5965a87a199.png">][codesandbox]
 <br>
 <br>
 <br>
