@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me
 I enjoy working with some technologies include Javscript, HTML, CSS/SCSS and React.js. Now I taking a part in course SZKOŁA-REACTA and I hope that i will learn a lot  of good stuff related to the React.js.
 
-## Let's stay in touch:
+## Find me around the web 🌎:
 
 [<img align="left" alt="Kamil Szerląg | LinkedIn" width="80px" src="https://user-images.githubusercontent.com/30775271/101756298-29956100-3ad6-11eb-98f8-8c912e68ce93.png">][linkedin]
 
