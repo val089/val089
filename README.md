@@ -1,5 +1,4 @@
-### Hello everybody,  I'm Kamil👋
-##  Frontend developer
+![github-profile](https://user-images.githubusercontent.com/30775271/101749583-357d2500-3ace-11eb-986e-d55083186b4f.png)
 
 <!--
 **val089/val089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
