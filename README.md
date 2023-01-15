@@ -39,9 +39,9 @@ I enjoy working with some technologies include Javscript, HTML, CSS/SCSS and Rea
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/val089/)](https://github.com/val089/)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/val089/)
+[![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)](https://github.com/val089/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/val089/)](https://github.com/val089/)
-[![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/val089/)
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/val089/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/val089/)
 
