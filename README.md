@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-I enjoy working with some technologies include Javscript, HTML, CSS/SCSS and React.js. Now I taking a part in course SZKOŁA-REACTA and I hope that i will learn a lot  of good stuff related to the React.js.
+I enjoy working with some technologies include Javscript, React and React Native. Now I'm learning Flutter.
 
 ## Find me around the web 🌎:
 
